@@ -5,7 +5,7 @@ const adminController = require("../controllers/adminController");
 const routeController = require("../controllers/routeController");
 const logController = require("../controllers/logController");
 
-router.post("/register", adminController.adminRegistration);
+//router.post("/register", adminController.adminRegistration);
 
 router.get("/dashboard", routeController.loadDashboard);
 router.get("/allstudents", studentController.allStudents);
