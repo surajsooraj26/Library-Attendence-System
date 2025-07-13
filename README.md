@@ -34,7 +34,7 @@ A built-in timer ensures accurate tracking of time spent in the library, automat
 <h2 id="installation">Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/surajsooraj26/Library-Attendence-System.git
+    <pre><code>git clone git@github.com:surajsooraj26/Library-Attendence-System.git
 cd Library-Attendence-System
     </code></pre>
   </li>
