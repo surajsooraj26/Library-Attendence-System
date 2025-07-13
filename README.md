@@ -35,7 +35,7 @@ A built-in timer ensures accurate tracking of time spent in the library, automat
 <ol>
   <li>Clone the repository:
     <pre><code>git clone https://github.com/surajsooraj26/Library-Attendence-System.git
-cd library-attendance-system
+cd Library-Attendence-System
     </code></pre>
   </li>
   
